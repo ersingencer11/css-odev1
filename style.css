@@ -1,0 +1,43 @@
+
+.center{
+    text-align: center;
+}
+
+h1{
+    font-size: 50px;
+    color:antiquewhite  ;
+    background-color: rgb(28, 101, 140);
+    margin: 0px auto 0px auto;  
+    padding: 20px;  
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+h2{
+    color:white;
+    margin-top: 0px;
+}
+.navigasyon{
+    background-color: rgb(57, 138, 185);
+    padding: 10px;
+}
+.navigasyon a{
+    color: antiquewhite;
+}
+.content{
+   
+    padding: 10px;  
+    background-color: rgb(236, 166, 166);
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+div.center>ol>li{
+    list-style-position: inside;
+    padding: 20px;
+}
+img{
+    height: 400px;
+    width: auto;
+}
+ol{
+    color: white;
+}
